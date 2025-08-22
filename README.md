@@ -58,7 +58,7 @@ The solution follows Clean Architecture principles with distinct layers:
 
 Clone the repository:
 
-`git clone https://github.com/SandunPushpika/TaskFlow.CQRS.git`
+`git clone https://github.com/SandunPushpika/CQR-Example.git`
 
 `cd TaskFlow.CQRS`
 
