@@ -75,13 +75,5 @@ This project is not intended for production use.
 
 It serves as a learning and reference guide for:
 
-- Developers new to CQRS and MediatR.
+- Developers new to CQRS and CQR Library.
 - Practitioners who want to explore Clean Architecture in .NET.
-- Teams looking for a scaffold to kickstart enterprise-ready applications.
-
-## 📌 Future Improvements
-
-- Add Authentication & Authorization (JWT).
-- Introduce Event Sourcing.
-- Add caching layer (Redis).
-- Deploy with Docker & Kubernetes.
